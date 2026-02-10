@@ -5,7 +5,11 @@ This is a quick sequential calculs implementation in haskell.
 The way it works it your create formulas to prove and it will show how it proves them.
 
 CITED PAPER: https://arxiv.org/pdf/2406.14719
-![](./screenshot.png)
+
+<img 
+  src="./screenshot.png"
+  style="width:100%; max-height:70vh; object-fit:contain; margin-bottom:24px;"
+/>
 
 ## How it works.
 
