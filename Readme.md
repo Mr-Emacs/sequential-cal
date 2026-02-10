@@ -8,7 +8,7 @@ CITED PAPER: https://arxiv.org/pdf/2406.14719
 
 <img 
   src="./screenshot.png"
-  style="width:100%; max-height:70vh; object-fit:contain; margin-bottom:24px;"
+  style="width:100%; max-height:40vh; object-fit:contain; margin-bottom:24px;"
 />
 
 ## How it works.
